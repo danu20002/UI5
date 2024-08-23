@@ -1,0 +1,44 @@
+<mvc:View xmlns:f2="sap.f" controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m" 
+    displayBlock="true" xmlns:l="sap.ui.layout" xmlns:f="sap.ui.layout.form">
+
+    <Page id="loginPage" title="Login" >
+        <content>
+       <l:Grid vSpacing="0">
+         <l:content >
+               <Label text="Employee Id">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Label>
+              <Input placeholder="UserName">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Input>
+               <Label text="Employee Id">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Label>
+              <Input placeholder="UserName">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Input>
+               <Label text="Employee Id">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Label>
+              <Input placeholder="UserName">
+              <layoutData>
+              <l:GridData span="L3 M3"></l:GridData>
+              </layoutData>
+              </Input>
+         </l:content>
+       </l:Grid>
+        </content>
+    </Page>
+</mvc:View>

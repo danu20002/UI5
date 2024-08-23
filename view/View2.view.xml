@@ -1,0 +1,10 @@
+<mvc:View controllerName="project1.controller.View2"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    
+     <Image src="https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg" height="100px" width="100px"></Image>
+         <Button type="Default" text="Go Back" press="onPress"></Button>
+    
+    </Page>
+</mvc:View>

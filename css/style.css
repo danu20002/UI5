@@ -1,0 +1,11 @@
+/* Enter your custom styles here */
+.mytextcolor{
+    color:red;
+}
+.myfontstyle{
+    font-size: 20px;
+    font-style: italic;
+}
+.mybackgrounImage{
+    background-image: url('../images/Block_Logo.jpg');
+}
